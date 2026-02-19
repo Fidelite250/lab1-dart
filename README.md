@@ -1,11 +1,14 @@
 # Lab 1 — Dart Student Registration
+**Student Name:** Fidelite Fabiola Munezero  
+**Student ID:** 22587/2023  
+**Date:** February 19, 2026  
 
 This project is part of the **Advanced Mobile Application Development – Flutter** course.  
 It demonstrates fundamental **Dart programming concepts**, including types, functions, collections, and object-oriented programming (OOP).
 
 ---
 
-##  Features
+## Features
 
 - **Dart Types & Functions**
   - Variables of type `String`, `int`, `double`, `bool`, and nullable types.
@@ -23,7 +26,7 @@ It demonstrates fundamental **Dart programming concepts**, including types, func
 
 ---
 
-##  Installation & Running
+## Installation & Running
 
 1. Install Dart: [https://dart.dev/get-dart](https://dart.dev/get-dart)  
 2. Clone or download this repository.  
