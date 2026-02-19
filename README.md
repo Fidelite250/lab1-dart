@@ -1,6 +1,6 @@
 # lab1-dart
 This lab1 helps to understand the fundamental concepts of Dart programming language (Dart types, functions, and OOP)
-# Lab 1 — Dart Student Registry
+# Lab 1 — Dart Student Registration
 
 This lab demonstrates:
 
