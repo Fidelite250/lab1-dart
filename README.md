@@ -23,7 +23,7 @@ It demonstrates fundamental **Dart programming concepts**, including types, func
 
 ---
 
-## 🛠 Installation & Running
+##  Installation & Running
 
 1. Install Dart: [https://dart.dev/get-dart](https://dart.dev/get-dart)  
 2. Clone or download this repository.  
