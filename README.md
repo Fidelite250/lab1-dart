@@ -1,15 +1,34 @@
-# lab1-dart
-This lab1 helps to understand the fundamental concepts of Dart programming language (Dart types, functions, and OOP)
 # Lab 1 — Dart Student Registration
 
-This lab demonstrates:
+This project is part of the **Advanced Mobile Application Development – Flutter** course.  
+It demonstrates fundamental **Dart programming concepts**, including types, functions, collections, and object-oriented programming (OOP).
 
-- Dart Types & Functions
-- Dart Collections (List & Map)
-- Object-Oriented Programming (Course & StudentRecord)
+---
 
-## How to Run
+##  Features
 
-1. Install Dart: https://dart.dev/get-dart  
-2. Open terminal in the folder containing `lab1.dart`  
-3. Run:  
+- **Dart Types & Functions**
+  - Variables of type `String`, `int`, `double`, `bool`, and nullable types.
+  - `formatStudent()` — formats student info as a readable string.
+  - `gradeLabel()` — converts numeric scores into letter grades.
+
+- **Dart Collections**
+  - `List` — stores courses.
+  - `Map` — maps student names to GPAs.
+  - `topStudents()` — filters students with GPA ≥ 3.5.
+
+- **Object-Oriented Programming**
+  - `Course` class — represents a university course.
+  - `StudentRecord` class — manages a student's enrolled courses and transcript.
+
+---
+
+## 🛠 Installation & Running
+
+1. Install Dart: [https://dart.dev/get-dart](https://dart.dev/get-dart)  
+2. Clone or download this repository.  
+3. Open a terminal in the project folder.  
+4. Run the program:
+
+```bash
+dart run lab1.dart
