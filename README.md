@@ -1,6 +1,6 @@
 # Lab 1 — Dart Student Registration
-**Student Name:** Fidelite Fabiola Munezero  
-**Student ID:** 22587/2023  
+**Names:** Fidelite Fabiola Munezero  
+**RegNo:** 22587/2023  
 **Date:** February 19, 2026  
 
 This project is part of the **Advanced Mobile Application Development – Flutter** course.  
